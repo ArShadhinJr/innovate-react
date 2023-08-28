@@ -22,8 +22,18 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+<<<<<<< HEAD
     "vite": "^4.4.5",
     "vite-plugin-gh-pages": "^0.4.1"
   }
 
+=======
+    "vite": "^4.4.5"
+  }, 
+  "homepage": "https://arshadhinjr.github.io/innovate-react/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+>>>>>>> 7e2db0b9080d7cea36706cf84f9eb57af9e93940
 }
