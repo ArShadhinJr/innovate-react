@@ -1,0 +1,19 @@
+#post {
+  padding: 100px 0;
+  background: url(../images/Vector.png) no-repeat bottom left;
+}
+#post .img-fluid {
+  border-radius: 20px;
+}
+#post span:first-child {
+  margin-right: 35px;
+}
+#post span:nth-child(3) {
+  margin: 0 24px 0 8px;
+}
+#post span:nth-child(4) {
+  margin: 0 12px 0 0;
+}
+#post span:hover {
+  color: #1bbf00;
+}

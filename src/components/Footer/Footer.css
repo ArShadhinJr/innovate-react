@@ -1,0 +1,16 @@
+#footer {
+  background: #48409C;
+  padding: 100px 0 20px;
+}
+#footer .footer-top p {
+  width: 450px;
+  margin-bottom: 189px;
+}
+#footer .footer-top p:last-child {
+  margin-bottom: 0;
+}
+#footer .text-3 {
+  font-weight: 600;
+  color: white;
+  margin-bottom: 48px;
+}

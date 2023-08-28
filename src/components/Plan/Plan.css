@@ -1,0 +1,46 @@
+#plan {
+  background: #f9f9fb;
+  padding: 100px 0;
+}
+#plan .plan-item {
+  padding: 60px 0;
+  border-radius: 20px;
+  background: white;
+  transition: 0.5s;
+}
+#plan .plan-item:hover {
+  background: #6b62c5;
+}
+#plan .dolar-amount {
+  position: relative;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  color: #1bbf00;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+#plan .dolar-sign {
+	position: absolute;
+	top: 5px;
+    left: -30%;
+	font-size: 24px;
+	color: #1bbf00;
+}
+#plan .pera {
+  width: 252px;
+  margin: auto;
+}
+#plan img{
+  width: 100%;
+}
+#plan .img-bg {
+  background: #ffffff42;
+}
+
+#plan .plan-item:hover h3,
+#plan .plan-item:hover p {
+  color: white;
+}

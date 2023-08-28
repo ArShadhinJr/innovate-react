@@ -1,0 +1,32 @@
+.counter {
+  padding: 285px 0;
+  background: url(../../assets/images/element2.png) no-repeat top right;
+}
+.counter h5 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 68px;
+  color: #1bbf00;
+  margin-bottom: 24px;
+}
+.counter p {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  color: #141135;
+}
+.counter .right-col {
+  position: relative;
+}
+.counter .right-col::after {
+  content: "";
+  width: 3px;
+  height: 100%;
+  background: #141135;
+  top: 0;
+  right: 0;
+  position: absolute;
+}

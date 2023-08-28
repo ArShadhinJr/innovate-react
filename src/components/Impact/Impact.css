@@ -1,0 +1,14 @@
+#impact {
+  padding: 100px 0;
+  background: url(../../assets/images/impactbg.png) no-repeat right bottom;
+}
+#impact .impact-up .pera {
+  width: 558px;
+  margin: 0 auto;
+}
+.impact-down-left .pera {
+  width: 300px;
+}
+#impact .impact-dowm {
+  padding-top: 100px;
+}

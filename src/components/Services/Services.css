@@ -1,0 +1,21 @@
+#services {
+  padding: 100px 0;
+  background: #f6f5ff;
+}
+#services .service-item {
+  padding: 50px;
+  background: white;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+#services .service-item:hover {
+  background: #6b62c5;
+}
+#services .service-item:hover h3,
+#services .service-item:hover p,
+#services .service-item:hover a {
+  color: white;
+}
+#services .service-item:hover .btn-service::before {
+  background: rgba(255, 255, 255, 0.281);
+}
