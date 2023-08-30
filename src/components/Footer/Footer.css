@@ -3,7 +3,7 @@
   padding: 100px 0 20px;
 }
 #footer .footer-top p {
-  width: 450px;
+  width: auto; /* 450px */
   margin-bottom: 189px;
 }
 #footer .footer-top p:last-child {
@@ -14,3 +14,4 @@
   color: white;
   margin-bottom: 48px;
 }
+

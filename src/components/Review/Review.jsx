@@ -1,6 +1,6 @@
-import '../CommonCss/common.css'
 import './Review.css'
 import revi from '../../assets/images/reviewer.png'
+import '../CommonCss/common.css'
 
 const Review = () => {
   return (
