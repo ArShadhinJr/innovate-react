@@ -1,5 +1,4 @@
 import './Banner.css';
-import '../CommonCss/common.css'
 const Banner = () => {
   return (
     <section className="banner">

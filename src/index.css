@@ -159,4 +159,472 @@ background: linear-gradient(52deg, rgba(63,157,251,1) 0%, rgba(104,89,251,1) 49%
   width: 100%;
   border-radius: 100px;
 }
+/*=========================================
+ 				Mobile Devices 
+ =========================================*/
+@media (max-width: 575.98px) {
+  .pera {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .pera-2 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .pera-3 {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .pera-4 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .pera-5 {
+    font-size: 15px;
+  }
+  .text-1 {
+    font-size: 24px;
+    line-height: 50px;
+  }
+  .text-2 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .text-3 {
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .text-4 {
+    font-size: 18px;
+    line-height: 31px;
+  }
+  .text-5 {
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: -1.5px;
+  }
 
+  .btn-web {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .btn-web-2 {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .btn-service {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+
+  .banner {
+    padding: 130px 0 50px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .banner h1 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 10px;
+  }
+  .banner p {
+    font-size: 18px;
+    line-height: 25px;
+    width: auto;
+  }
+  .banner .me-3 {
+    margin-right: 0.6rem !important;
+  }
+  .counter {
+    padding: 50px 0;
+  }
+  .counter h5 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 5px !important;
+    margin-top: 20px;
+  }
+  .counter p {
+    font-size: 27px;
+    line-height: 31px;
+    margin-bottom: 30px !important;
+  }
+  .counter .right-col::before {
+    content: "";
+    width: 90%;
+    height: 1px;
+    background: #141135;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 0 20px;
+  }
+  .counter .right-col::after {
+    display: none;
+  }
+  #choose {
+    padding: 50px 0;
+  }
+  #choose .choose-left {
+    padding-bottom: 50px;
+  }
+  #choose .pera {
+    width: 80%;
+  }
+  #choose .choose-item:hover .pera {
+    width: 80%;
+  }
+  #services {
+    padding: 50px 0;
+  }
+  .btn-service::before {
+    height: 29px;
+  }
+  #impact {
+    padding: 50px 0;
+  }
+  #impact .impact-up .pera {
+    width: auto;
+    margin: 0 auto;
+  }
+  #impact .impact-dowm {
+    padding-top: 50px;
+  }
+  .impact-down-left .pera {
+    width: auto;
+  }
+  #plan .dolar-amount {
+    font-weight: 800;
+    font-size: 36px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  #plan .dolar-sign {
+    position: absolute;
+    top: 5px;
+    left: -30%;
+    font-size: 18px;
+    color: #1bbf00;
+  }
+  #review {
+    padding: 0;
+  }
+  #review .text-1 {
+    line-height: 35px;
+  }
+  #review .review-down {
+    margin-top: 60px;
+  }
+  #review .text-4 {
+    width: auto;
+    margin: 33px auto 48px;
+  }
+  #review .review-sild-icon .arrow-md-left,
+  #review .review-sild-icon .arrow-md-right {
+    width: 36px;
+    height: 36px;
+    font-size: 15px;
+    line-height: 36px;
+  }
+
+  #post .text-5 {
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: -1.5px;
+    color: #141135;
+  }
+  #post span {
+    margin-right: 5px !important;
+    margin-left: 0 !important;
+  }
+  #footer {
+    padding: 50px 0 20px;
+  }
+  #footer .footer-top p {
+    width: auto;
+    margin-bottom: 0;
+  }
+  #footer .text-3 {
+    margin-bottom: 20px;
+  }
+  #footer .footer-right .mb-4 {
+    margin-bottom: 0.6rem !important;
+  }
+  #footer .footer-right ul li:last-child .mb-4 {
+    margin-bottom: 1rem !important;
+  }
+}
+
+/*=========================================
+ 	iPads and Tablets – 481px — 768px.
+ =========================================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .pera {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .pera-2 {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .pera-3 {
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .pera-4 {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .pera-5 {
+    font-size: 18px;
+  }
+  .text-1 { 
+    font-size: 40px;
+    line-height: 60px;
+  }
+  .text-2 {
+    font-size: 28px;
+    line-height: 33px;
+  }
+  .text-3 {
+    font-size: 22px;
+    line-height: 33px;
+  }
+  .text-4 {
+    font-size: 22px;
+    line-height: 37px;
+  }
+  .text-5 {
+    font-size: 28px;
+    line-height: 50px;
+    letter-spacing: -1.5px;
+  }
+
+  .btn-web,
+  .btn-web-2,
+  .btn-service {
+    padding: 13px 26px;
+    font-size: 15px;
+  }
+  .banner {
+    padding: 130px 0 50px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 15px;
+  }
+  .banner h1 {
+    font-size: 60px;
+    line-height: 70px;
+    margin-bottom: 20px;
+  }
+  .banner p {
+    font-size: 26px;
+    line-height: 40px;
+    width: auto;
+  }
+  .banner .me-3 {
+    margin-right: 0.8rem !important;
+  }
+  .counter {
+    padding: 70px 0;
+  }
+  .counter h5 {
+    font-size: 48px;
+    line-height: 60px;
+    margin-bottom: 5px !important;
+    margin-top: 20px;
+  }
+  .counter p {
+    font-size: 30px;
+    line-height: 37px;
+    margin-bottom: 30px !important;
+  }
+  .counter .right-col::before {
+    content: "";
+    width: 90%;
+    height: 1px;
+    background: #141135;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 0 20px;
+  }
+  .counter .right-col::after {
+    display: none;
+  }
+  #choose {
+    padding: 70px 0;
+  }
+  #choose .choose-left {
+    padding-bottom: 70px;
+  }
+  #choose .pera {
+    width: 80%;
+  }
+  #choose .choose-item:hover .pera {
+    width: 80%;
+  }
+  #services {
+    padding: 70px 0;
+  }
+  .btn-service::before {
+    height: 34px;
+  }
+  #impact {
+    padding: 7cqi 0;
+  }
+  #impact .impact-up .pera {
+    width: auto;
+    margin: 0 auto;
+  }
+  #impact .impact-dowm {
+    padding-top: 70px;
+  }
+  .impact-down-left .pera {
+    width: auto;
+  }
+  #plan .dolar-amount {
+    font-weight: 800;
+    font-size: 36px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  #plan .dolar-sign {
+    position: absolute;
+    font-size: 22px;
+    color: #1bbf00;
+  }
+  #review {
+    padding: 0;
+  }
+  #review .text-1 {
+    line-height: 50px;
+  }
+  #review .review-down {
+    margin-top: 70px;
+  }
+  #review .text-4 {
+    width: auto;
+    margin: 33px auto 48px;
+  }
+  #review .review-sild-icon .arrow-md-left,
+  #review .review-sild-icon .arrow-md-right {
+    width: 42px;
+    height: 42px;
+    font-size: 18px;
+    line-height: 42px;
+  }
+
+  #post .text-5 {
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: -.5px;
+  }
+ 
+  #footer {
+    padding: 50px 0 20px;
+  }
+  #footer .footer-top p {
+    width: auto;
+    margin-bottom: 0;
+  }
+  #footer .text-3 {
+    margin-bottom: 20px;
+  }
+  #footer .footer-right .mb-4 {
+    margin-bottom: 0.6rem !important;
+  }
+  #footer .footer-right ul li:last-child .mb-4 {
+    margin-bottom: 1rem !important;
+  }
+}
+
+/*=========================================
+ 				medium devices 
+ =========================================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .text-1 {
+    font-size: 42px;
+  }
+
+  .banner {
+    padding: 150px 0 100px 0;
+  }
+  .banner h1 {
+    font-size: 59px;
+    line-height: 70px;
+  }
+  .banner p {
+    font-size: 20px;
+    line-height: 35px;
+    width: auto;
+  }
+  .counter {
+    padding: 100px 0 50px;
+  }
+  .counter .right-col {
+    margin-bottom: 50px;
+  }
+  .counter .right-col:nth-child(2):after {
+    display: none;
+  }
+  .counter .right-col::before {
+    content: "";
+    width: 90%;
+    height: 1px;
+    background: #141135;
+    bottom: -25px;
+    right: 20px;
+    position: absolute;
+  }
+  .counter .right-col:nth-child(3):before {
+    display: none;
+  }
+  .counter h5 {
+    font-size: 60px;
+    line-height: 60px;
+    margin-bottom: 15px;
+  }
+  .counter p {
+    font-size: 31px;
+    line-height: 37px;
+  }
+  #choose .choose-left {
+    padding-bottom: 100px;
+  }
+  #choose .pera {
+    width: 600px;
+  }
+  #choose .choose-item:hover .pera {
+    width: 450px;
+  }
+  #services .col:first-child {
+    padding-bottom: 100px;
+  }
+  .impact-down-left .pera {
+    width: 300px;
+    margin: 0 auto 20px auto;
+  }
+  #plan {
+    padding-bottom: 0;
+  }
+  #review .text-4 {
+    width: 600px;
+  }
+  #review .text-1 {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+  }
+  #review .review-down {
+    margin-top: 70px;
+  }
+
+  #footer {
+    padding: 50px 0;
+  }
+  #footer .footer-top p {
+    width: auto;
+  }
+}

@@ -1,6 +1,6 @@
 import logo from '../../assets/images/logo.png';
-import './Navbar.css';
-import '../CommonCss/common.css'
+import './Navbar.css'; 
+
 const Navbar = () => {
   return (
     <header className="header">

@@ -34,3 +34,10 @@
   margin: 0 auto;
   margin-bottom: 16px;
 }
+
+@media (max-width: 575.98px) {
+.btn-web-2 {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}

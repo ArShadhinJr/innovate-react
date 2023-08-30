@@ -4,7 +4,6 @@ import ser2 from '../../assets/images/services2.png'
 import  ser3  from '../../assets/images/services3.png'
 import  ser4  from '../../assets/images/services4.png'
 import  ser5 from '../../assets/images/services5.png'
-import '../CommonCss/common.css'
 
 const Services = () => {
   return (

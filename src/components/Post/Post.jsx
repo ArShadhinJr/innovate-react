@@ -1,6 +1,5 @@
 import './Post.css';
 import news from '../../assets/images/news.png'
-import '../CommonCss/common.css'
 
 const Post = () => {
   return (
