@@ -1,4 +1,5 @@
-import './Plan.css'
+import './Plan.css';
+import '../CommonCss/common.css'
 import plan1 from '../../assets/images/plan1.png'
 import plan2 from '../../assets/images/plan2.png'
 import plan3 from '../../assets/images/plan5.png'

@@ -1,4 +1,5 @@
-import './Counter.css'
+import './Counter.css';
+import '../CommonCss/common.css'
 
 const Counter = () => {
   return (

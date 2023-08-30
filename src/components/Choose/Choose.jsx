@@ -1,4 +1,5 @@
-import './Choose.css'
+import './Choose.css';
+import '../CommonCss/common.css'
 
 const Choose = () => {
   return (

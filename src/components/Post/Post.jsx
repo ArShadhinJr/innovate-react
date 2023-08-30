@@ -1,4 +1,5 @@
-import './Post.css'
+import './Post.css';
+import '../CommonCss/common.css'
 import news from '../../assets/images/news.png'
 
 const Post = () => {
