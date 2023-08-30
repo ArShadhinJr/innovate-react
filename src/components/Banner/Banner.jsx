@@ -1,9 +1,7 @@
 import './Banner.css';
+import '../CommonCss/common.css'
 const Banner = () => {
   return (
-    // <!-- ========================================
-    //             BANNER SECTION
-    // ======================================== -->
     <section className="banner">
       <div className="container row mx-auto text-white text-center">
         <div className="col-lg-10 mx-auto">
