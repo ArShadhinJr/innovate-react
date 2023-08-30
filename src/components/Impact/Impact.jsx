@@ -1,5 +1,5 @@
-import './Impact.css'
 import '../CommonCss/common.css'
+import './Impact.css'
 import impactIcon1 from '../../assets/images/icon1.png'
 import impactIcon2 from '../../assets/images/icon2.png'
 import banner from '../../assets/images/banner.png'
